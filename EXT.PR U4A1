@@ -1,1 +1,7 @@
+adjective1 = input("Enter an adjective: ")
+adjective2 = input("Enter an adjective: ")
+type of bird = input("Enter a type of bird: ")
+room in a house = input("Enter a room in a house: ")
 
+print("It was a {adjective1}, cold November day!")
+print("I woke up to the {adjective2} smell of {type of bird} roasting in the {room in a house}.")
